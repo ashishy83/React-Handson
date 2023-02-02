@@ -13,7 +13,7 @@ const AddNewStudent = () => {
   };
 
   const onCancel = () => {
-    navigate("/student");
+    navigate("/student")
   };
 
   const handleChange = (e) => {
